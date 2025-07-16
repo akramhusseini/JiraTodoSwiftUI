@@ -57,38 +57,6 @@ struct ContentView: View {
     }
 }
 
-struct IssueRow: View {
-    let issue: JiraIssue
-
-    var body: some View {
-        HStack(spacing: 12) {
-            Text(issue.key.split(separator: "-").last.map(String.init) ?? issue.key)
-                .font(.headline)
-                .frame(width: 40, height: 40)
-                .background(Circle().fill(statusColor(issue.status)))
-                .foregroundColor(.white)
-
-            VStack(alignment: .leading, spacing: 4) {
-                Text(issue.summary)
-                Text(issue.status)
-                    .font(.caption)
-                    .padding(4)
-                    .background(statusColor(issue.status).opacity(0.2))
-                    .cornerRadius(4)
-            }
-        }
-        .padding(.vertical, 4)
-    }
-
-    private func statusColor(_ s: String) -> Color {
-        switch s.lowercased() {
-        case "in progress":         return .orange
-        case "lead review", "to do": return .blue
-        default:                    return .gray
-        }
-    }
-}
-
 #Preview {
     ContentView()
 }

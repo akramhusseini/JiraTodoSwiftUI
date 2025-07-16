@@ -40,4 +40,10 @@ struct JiraIssue: Identifiable, Decodable {
         summary = fields.summary
         status  = fields.status.name
     }
+
+    init(key: String, summary: String, status: String) {
+        self.key = key
+        self.summary = summary
+        self.status = status
+    }
 }
