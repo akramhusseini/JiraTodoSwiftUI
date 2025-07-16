@@ -1,13 +1,13 @@
 //
-//  JiraTodoUITestsLaunchTests.swift
-//  JiraTodoUITests
+//  JiraTodoMacUITestsLaunchTests.swift
+//  JiraTodoMacUITests
 //
 //  Created by Akram Husseini on 16/07/2025.
 //
 
 import XCTest
 
-final class JiraTodoUITestsLaunchTests: XCTestCase {
+final class JiraTodoMacUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

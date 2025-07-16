@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		EA2E17382E279D3A004F8552 /* PBXContainerItemProxy */ = {
+		EA2E177E2E27A326004F8552 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = EA2E17202E279D39004F8552 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EA2E17272E279D39004F8552;
-			remoteInfo = JiraTodo;
+			remoteGlobalIDString = EA2E176D2E27A324004F8552;
+			remoteInfo = JiraTodoMac;
 		};
-		EA2E17422E279D3A004F8552 /* PBXContainerItemProxy */ = {
+		EA2E17882E27A326004F8552 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = EA2E17202E279D39004F8552 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EA2E17272E279D39004F8552;
-			remoteInfo = JiraTodo;
+			remoteGlobalIDString = EA2E176D2E27A324004F8552;
+			remoteInfo = JiraTodoMac;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EA2E17282E279D39004F8552 /* JiraTodo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JiraTodo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA2E17372E279D3A004F8552 /* JiraTodoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiraTodoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA2E17412E279D3A004F8552 /* JiraTodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiraTodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA2E176E2E27A324004F8552 /* JiraTodoMac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JiraTodoMac.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA2E177D2E27A326004F8552 /* JiraTodoMacTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiraTodoMacTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA2E17872E27A326004F8552 /* JiraTodoMacUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiraTodoMacUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EA2E172A2E279D39004F8552 /* JiraTodo */ = {
+		EA2E176F2E27A324004F8552 /* JiraTodoMac */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = JiraTodo;
+			path = JiraTodoMac;
 			sourceTree = "<group>";
 		};
-		EA2E173A2E279D3A004F8552 /* JiraTodoTests */ = {
+		EA2E17802E27A326004F8552 /* JiraTodoMacTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = JiraTodoTests;
+			path = JiraTodoMacTests;
 			sourceTree = "<group>";
 		};
-		EA2E17442E279D3A004F8552 /* JiraTodoUITests */ = {
+		EA2E178A2E27A326004F8552 /* JiraTodoMacUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = JiraTodoUITests;
+			path = JiraTodoMacUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EA2E17252E279D39004F8552 /* Frameworks */ = {
+		EA2E176B2E27A324004F8552 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E17342E279D3A004F8552 /* Frameworks */ = {
+		EA2E177A2E27A326004F8552 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E173E2E279D3A004F8552 /* Frameworks */ = {
+		EA2E17842E27A326004F8552 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -75,9 +75,9 @@
 		EA2E171F2E279D39004F8552 = {
 			isa = PBXGroup;
 			children = (
-				EA2E172A2E279D39004F8552 /* JiraTodo */,
-				EA2E173A2E279D3A004F8552 /* JiraTodoTests */,
-				EA2E17442E279D3A004F8552 /* JiraTodoUITests */,
+				EA2E176F2E27A324004F8552 /* JiraTodoMac */,
+				EA2E17802E27A326004F8552 /* JiraTodoMacTests */,
+				EA2E178A2E27A326004F8552 /* JiraTodoMacUITests */,
 				EA2E17292E279D39004F8552 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		EA2E17292E279D39004F8552 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA2E17282E279D39004F8552 /* JiraTodo.app */,
-				EA2E17372E279D3A004F8552 /* JiraTodoTests.xctest */,
-				EA2E17412E279D3A004F8552 /* JiraTodoUITests.xctest */,
+				EA2E176E2E27A324004F8552 /* JiraTodoMac.app */,
+				EA2E177D2E27A326004F8552 /* JiraTodoMacTests.xctest */,
+				EA2E17872E27A326004F8552 /* JiraTodoMacUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,72 +95,72 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA2E17272E279D39004F8552 /* JiraTodo */ = {
+		EA2E176D2E27A324004F8552 /* JiraTodoMac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA2E174B2E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodo" */;
+			buildConfigurationList = EA2E178F2E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMac" */;
 			buildPhases = (
-				EA2E17242E279D39004F8552 /* Sources */,
-				EA2E17252E279D39004F8552 /* Frameworks */,
-				EA2E17262E279D39004F8552 /* Resources */,
+				EA2E176A2E27A324004F8552 /* Sources */,
+				EA2E176B2E27A324004F8552 /* Frameworks */,
+				EA2E176C2E27A324004F8552 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EA2E172A2E279D39004F8552 /* JiraTodo */,
+				EA2E176F2E27A324004F8552 /* JiraTodoMac */,
 			);
-			name = JiraTodo;
+			name = JiraTodoMac;
 			packageProductDependencies = (
 			);
-			productName = JiraTodo;
-			productReference = EA2E17282E279D39004F8552 /* JiraTodo.app */;
+			productName = JiraTodoMac;
+			productReference = EA2E176E2E27A324004F8552 /* JiraTodoMac.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EA2E17362E279D3A004F8552 /* JiraTodoTests */ = {
+		EA2E177C2E27A326004F8552 /* JiraTodoMacTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA2E174E2E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoTests" */;
+			buildConfigurationList = EA2E17922E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMacTests" */;
 			buildPhases = (
-				EA2E17332E279D3A004F8552 /* Sources */,
-				EA2E17342E279D3A004F8552 /* Frameworks */,
-				EA2E17352E279D3A004F8552 /* Resources */,
+				EA2E17792E27A326004F8552 /* Sources */,
+				EA2E177A2E27A326004F8552 /* Frameworks */,
+				EA2E177B2E27A326004F8552 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				EA2E17392E279D3A004F8552 /* PBXTargetDependency */,
+				EA2E177F2E27A326004F8552 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				EA2E173A2E279D3A004F8552 /* JiraTodoTests */,
+				EA2E17802E27A326004F8552 /* JiraTodoMacTests */,
 			);
-			name = JiraTodoTests;
+			name = JiraTodoMacTests;
 			packageProductDependencies = (
 			);
-			productName = JiraTodoTests;
-			productReference = EA2E17372E279D3A004F8552 /* JiraTodoTests.xctest */;
+			productName = JiraTodoMacTests;
+			productReference = EA2E177D2E27A326004F8552 /* JiraTodoMacTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EA2E17402E279D3A004F8552 /* JiraTodoUITests */ = {
+		EA2E17862E27A326004F8552 /* JiraTodoMacUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA2E17512E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoUITests" */;
+			buildConfigurationList = EA2E17952E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMacUITests" */;
 			buildPhases = (
-				EA2E173D2E279D3A004F8552 /* Sources */,
-				EA2E173E2E279D3A004F8552 /* Frameworks */,
-				EA2E173F2E279D3A004F8552 /* Resources */,
+				EA2E17832E27A326004F8552 /* Sources */,
+				EA2E17842E27A326004F8552 /* Frameworks */,
+				EA2E17852E27A326004F8552 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				EA2E17432E279D3A004F8552 /* PBXTargetDependency */,
+				EA2E17892E27A326004F8552 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				EA2E17442E279D3A004F8552 /* JiraTodoUITests */,
+				EA2E178A2E27A326004F8552 /* JiraTodoMacUITests */,
 			);
-			name = JiraTodoUITests;
+			name = JiraTodoMacUITests;
 			packageProductDependencies = (
 			);
-			productName = JiraTodoUITests;
-			productReference = EA2E17412E279D3A004F8552 /* JiraTodoUITests.xctest */;
+			productName = JiraTodoMacUITests;
+			productReference = EA2E17872E27A326004F8552 /* JiraTodoMacUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -173,16 +173,16 @@
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					EA2E17272E279D39004F8552 = {
+					EA2E176D2E27A324004F8552 = {
 						CreatedOnToolsVersion = 16.3;
 					};
-					EA2E17362E279D3A004F8552 = {
+					EA2E177C2E27A326004F8552 = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = EA2E17272E279D39004F8552;
+						TestTargetID = EA2E176D2E27A324004F8552;
 					};
-					EA2E17402E279D3A004F8552 = {
+					EA2E17862E27A326004F8552 = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = EA2E17272E279D39004F8552;
+						TestTargetID = EA2E176D2E27A324004F8552;
 					};
 				};
 			};
@@ -200,29 +200,29 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA2E17272E279D39004F8552 /* JiraTodo */,
-				EA2E17362E279D3A004F8552 /* JiraTodoTests */,
-				EA2E17402E279D3A004F8552 /* JiraTodoUITests */,
+				EA2E176D2E27A324004F8552 /* JiraTodoMac */,
+				EA2E177C2E27A326004F8552 /* JiraTodoMacTests */,
+				EA2E17862E27A326004F8552 /* JiraTodoMacUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EA2E17262E279D39004F8552 /* Resources */ = {
+		EA2E176C2E27A324004F8552 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E17352E279D3A004F8552 /* Resources */ = {
+		EA2E177B2E27A326004F8552 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E173F2E279D3A004F8552 /* Resources */ = {
+		EA2E17852E27A326004F8552 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EA2E17242E279D39004F8552 /* Sources */ = {
+		EA2E176A2E27A324004F8552 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E17332E279D3A004F8552 /* Sources */ = {
+		EA2E17792E27A326004F8552 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA2E173D2E279D3A004F8552 /* Sources */ = {
+		EA2E17832E27A326004F8552 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,15 +256,15 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		EA2E17392E279D3A004F8552 /* PBXTargetDependency */ = {
+		EA2E177F2E27A326004F8552 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EA2E17272E279D39004F8552 /* JiraTodo */;
-			targetProxy = EA2E17382E279D3A004F8552 /* PBXContainerItemProxy */;
+			target = EA2E176D2E27A324004F8552 /* JiraTodoMac */;
+			targetProxy = EA2E177E2E27A326004F8552 /* PBXContainerItemProxy */;
 		};
-		EA2E17432E279D3A004F8552 /* PBXTargetDependency */ = {
+		EA2E17892E27A326004F8552 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EA2E17272E279D39004F8552 /* JiraTodo */;
-			targetProxy = EA2E17422E279D3A004F8552 /* PBXContainerItemProxy */;
+			target = EA2E176D2E27A324004F8552 /* JiraTodoMac */;
+			targetProxy = EA2E17882E27A326004F8552 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -390,63 +390,65 @@
 			};
 			name = Release;
 		};
-		EA2E174C2E279D3A004F8552 /* Debug */ = {
+		EA2E17902E27A326004F8552 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = JiraTodoMac/JiraTodoMac.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/Frameworks",
+					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		EA2E174D2E279D3A004F8552 /* Release */ = {
+		EA2E17912E27A326004F8552 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = JiraTodoMac/JiraTodoMac.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/Frameworks",
+					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		EA2E174F2E279D3A004F8552 /* Debug */ = {
+		EA2E17932E27A326004F8552 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -454,18 +456,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMacTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JiraTodo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JiraTodo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JiraTodoMac.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JiraTodoMac";
 			};
 			name = Debug;
 		};
-		EA2E17502E279D3A004F8552 /* Release */ = {
+		EA2E17942E27A326004F8552 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -473,48 +475,50 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMacTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JiraTodo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JiraTodo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JiraTodoMac.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JiraTodoMac";
 			};
 			name = Release;
 		};
-		EA2E17522E279D3A004F8552 /* Debug */ = {
+		EA2E17962E27A326004F8552 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
 				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMacUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = JiraTodo;
+				TEST_TARGET_NAME = JiraTodoMac;
 			};
 			name = Debug;
 		};
-		EA2E17532E279D3A004F8552 /* Release */ = {
+		EA2E17972E27A326004F8552 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M42R572D95;
 				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.husseini.JiraTodoMacUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = JiraTodo;
+				TEST_TARGET_NAME = JiraTodoMac;
 			};
 			name = Release;
 		};
@@ -530,29 +534,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA2E174B2E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodo" */ = {
+		EA2E178F2E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EA2E174C2E279D3A004F8552 /* Debug */,
-				EA2E174D2E279D3A004F8552 /* Release */,
+				EA2E17902E27A326004F8552 /* Debug */,
+				EA2E17912E27A326004F8552 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA2E174E2E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoTests" */ = {
+		EA2E17922E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMacTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EA2E174F2E279D3A004F8552 /* Debug */,
-				EA2E17502E279D3A004F8552 /* Release */,
+				EA2E17932E27A326004F8552 /* Debug */,
+				EA2E17942E27A326004F8552 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA2E17512E279D3A004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoUITests" */ = {
+		EA2E17952E27A326004F8552 /* Build configuration list for PBXNativeTarget "JiraTodoMacUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EA2E17522E279D3A004F8552 /* Debug */,
-				EA2E17532E279D3A004F8552 /* Release */,
+				EA2E17962E27A326004F8552 /* Debug */,
+				EA2E17972E27A326004F8552 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

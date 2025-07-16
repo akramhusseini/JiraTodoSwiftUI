@@ -1,6 +1,6 @@
 //
 //  Item.swift
-//  JiraTodo
+//  JiraTodoMac
 //
 //  Created by Akram Husseini on 16/07/2025.
 //
